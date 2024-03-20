@@ -1,0 +1,4 @@
+C:/Users/My PC/CLionProjects/APSC142Final/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/My PC/CLionProjects/APSC142Final/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/My PC/CLionProjects/APSC142Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/My PC/CLionProjects/APSC142Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
